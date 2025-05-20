@@ -13,7 +13,7 @@
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
 - 🔭 I’m working as a Software Engineer at Kooltra and contributing to frontend and backend for building web applications to financial services.
-- 🌱 I'm also a master's student at the University of Campinas, studying about local search and combinatorial optimization.
+- 🌱 I'm also a master's student at ITA, studying about machine learning and combinatorial optimization.
 - ⚡ In my free time I solve problems on LeetCode and read tech articles about AI and ML.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-luizcartolano-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizcartolano)
 - 😄 Pronouns: he/him/his
